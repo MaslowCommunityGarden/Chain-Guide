@@ -13,3 +13,7 @@ Provided are
 - An assembly model in STEP format for other CAD platforms
 - A nest model in Fusion360 format, to tweak CAM settings
 - The proven NC file I used to make the part
+
+Here is the guide from another angle:
+
+![maslow chain guide](https://raw.githubusercontent.com/MaslowCommunityGarden/Chain-Guide/master/MaslowChainGuide2.jpg)
