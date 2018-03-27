@@ -1,1 +1,3 @@
-Edit this file to add assembly instructions
+As far as mounting to the frame, I made up a mounting bracket from 1 1/2" x 1/8" steel angle. I drilled two holes in one leg that match up with the motor mount. This way my bracket sandwiches between the motor bracket and the mounting bracket I made for the frame. In the other leg, I drilled and tapped two 1/4"-20 holes 42mm (~1 5/8") on center for the guide screws.
+
+That being said, it would be quite easy to simply attach the guides to the wooden stock frame. There may need to be a riser or something in the system to make sure it aligns with the chain sprocket. As much as I really like my steel frame, it requires me to do a little more thinking as to how to attach modifications.
